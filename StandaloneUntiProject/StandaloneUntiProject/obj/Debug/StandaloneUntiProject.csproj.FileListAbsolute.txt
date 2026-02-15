@@ -1,0 +1,17 @@
+D:\Users\User\Documents\αξιοπιστία λογισμικου\StandaloneUntiProject\StandaloneUntiProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Users\User\Documents\αξιοπιστία λογισμικου\StandaloneUntiProject\StandaloneUntiProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Users\User\Documents\αξιοπιστία λογισμικου\StandaloneUntiProject\StandaloneUntiProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Users\User\Documents\αξιοπιστία λογισμικου\StandaloneUntiProject\StandaloneUntiProject\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Users\User\Documents\αξιοπιστία λογισμικου\StandaloneUntiProject\StandaloneUntiProject\bin\Debug\PartialTestCheck.dll
+D:\Users\User\Documents\αξιοπιστία λογισμικου\StandaloneUntiProject\StandaloneUntiProject\bin\Debug\PartialTestCheck.pdb
+D:\Users\User\Documents\αξιοπιστία λογισμικου\StandaloneUntiProject\StandaloneUntiProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Users\User\Documents\αξιοπιστία λογισμικου\StandaloneUntiProject\StandaloneUntiProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Users\User\Documents\αξιοπιστία λογισμικου\StandaloneUntiProject\StandaloneUntiProject\bin\Debug\PartialHomework.dll
+D:\Users\User\Documents\αξιοπιστία λογισμικου\StandaloneUntiProject\StandaloneUntiProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Users\User\Documents\αξιοπιστία λογισμικου\StandaloneUntiProject\StandaloneUntiProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Users\User\Documents\αξιοπιστία λογισμικου\StandaloneUntiProject\StandaloneUntiProject\bin\Debug\PartialHomework.pdb
+D:\Users\User\Documents\αξιοπιστία λογισμικου\StandaloneUntiProject\StandaloneUntiProject\obj\Debug\StandaloneUntiProject.csproj.AssemblyReference.cache
+D:\Users\User\Documents\αξιοπιστία λογισμικου\StandaloneUntiProject\StandaloneUntiProject\obj\Debug\StandaloneUntiProject.csproj.CoreCompileInputs.cache
+D:\Users\User\Documents\αξιοπιστία λογισμικου\StandaloneUntiProject\StandaloneUntiProject\obj\Debug\Standalo.BE257EA4.Up2Date
+D:\Users\User\Documents\αξιοπιστία λογισμικου\StandaloneUntiProject\StandaloneUntiProject\obj\Debug\PartialTestCheck.dll
+D:\Users\User\Documents\αξιοπιστία λογισμικου\StandaloneUntiProject\StandaloneUntiProject\obj\Debug\PartialTestCheck.pdb

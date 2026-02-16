@@ -51,7 +51,7 @@ namespace PartialTestCheck
 
             toOrderRight2 = new Product[]
             {
-
+                
             };
 
             tempOrder = new Product[] { };
@@ -157,7 +157,7 @@ namespace PartialTestCheck
         [TestMethod]
         public void Country020_Restricted()
         {
-            Assert.AreEqual("Περιορισμένη διανομή", dll.FindCountry("0191111111119"));
+            Assert.AreEqual("Περιορισμένη διανομή", dll.FindCountry("0201111111115"));
         }
 
         [TestMethod]
@@ -458,7 +458,7 @@ namespace PartialTestCheck
         {
             new Product("123", "Ελλάδα", 10, "Τρόφιμα", 10.0, 0);
         }
-
+       
         [TestMethod]
         [ExpectedException(typeof(ArgumentNullException))]
         public void ProductConstructor_NullBarcode_ThrowsException()
@@ -478,4 +478,3 @@ namespace PartialTestCheck
 
 
 }
-

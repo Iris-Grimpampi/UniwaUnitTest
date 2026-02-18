@@ -4,3 +4,9 @@ D:\Users\User\Documents\αξιοπιστία λογισμικου\PartialHomewor
 D:\Users\User\Documents\αξιοπιστία λογισμικου\PartialHomework2\FaultyLibrary\obj\Debug\FaultyLibrary.csproj.CoreCompileInputs.cache
 D:\Users\User\Documents\αξιοπιστία λογισμικου\PartialHomework2\FaultyLibrary\obj\Debug\FaultyLibrary.dll
 D:\Users\User\Documents\αξιοπιστία λογισμικου\PartialHomework2\FaultyLibrary\obj\Debug\FaultyLibrary.pdb
+D:\Users\User\Documents\αξιοπιστία λογισμικου\toUpload\PartialHomework2\FaultyLibrary\bin\Debug\FaultyLibrary.dll
+D:\Users\User\Documents\αξιοπιστία λογισμικου\toUpload\PartialHomework2\FaultyLibrary\bin\Debug\FaultyLibrary.pdb
+D:\Users\User\Documents\αξιοπιστία λογισμικου\toUpload\PartialHomework2\FaultyLibrary\obj\Debug\FaultyLibrary.csproj.AssemblyReference.cache
+D:\Users\User\Documents\αξιοπιστία λογισμικου\toUpload\PartialHomework2\FaultyLibrary\obj\Debug\FaultyLibrary.csproj.CoreCompileInputs.cache
+D:\Users\User\Documents\αξιοπιστία λογισμικου\toUpload\PartialHomework2\FaultyLibrary\obj\Debug\FaultyLibrary.dll
+D:\Users\User\Documents\αξιοπιστία λογισμικου\toUpload\PartialHomework2\FaultyLibrary\obj\Debug\FaultyLibrary.pdb

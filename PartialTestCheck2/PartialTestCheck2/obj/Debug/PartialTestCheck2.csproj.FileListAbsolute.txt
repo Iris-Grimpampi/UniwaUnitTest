@@ -1,0 +1,17 @@
+D:\Users\User\Documents\αξιοπιστία λογισμικου\PartialTestCheck2\PartialTestCheck2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Users\User\Documents\αξιοπιστία λογισμικου\PartialTestCheck2\PartialTestCheck2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Users\User\Documents\αξιοπιστία λογισμικου\PartialTestCheck2\PartialTestCheck2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Users\User\Documents\αξιοπιστία λογισμικου\PartialTestCheck2\PartialTestCheck2\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Users\User\Documents\αξιοπιστία λογισμικου\PartialTestCheck2\PartialTestCheck2\bin\Debug\PartialTestCheck.dll
+D:\Users\User\Documents\αξιοπιστία λογισμικου\PartialTestCheck2\PartialTestCheck2\bin\Debug\PartialTestCheck.pdb
+D:\Users\User\Documents\αξιοπιστία λογισμικου\PartialTestCheck2\PartialTestCheck2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Users\User\Documents\αξιοπιστία λογισμικου\PartialTestCheck2\PartialTestCheck2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Users\User\Documents\αξιοπιστία λογισμικου\PartialTestCheck2\PartialTestCheck2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Users\User\Documents\αξιοπιστία λογισμικου\PartialTestCheck2\PartialTestCheck2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Users\User\Documents\αξιοπιστία λογισμικου\PartialTestCheck2\PartialTestCheck2\obj\Debug\PartialTestCheck2.csproj.AssemblyReference.cache
+D:\Users\User\Documents\αξιοπιστία λογισμικου\PartialTestCheck2\PartialTestCheck2\obj\Debug\PartialTestCheck2.csproj.CoreCompileInputs.cache
+D:\Users\User\Documents\αξιοπιστία λογισμικου\PartialTestCheck2\PartialTestCheck2\obj\Debug\PartialT.160AF214.Up2Date
+D:\Users\User\Documents\αξιοπιστία λογισμικου\PartialTestCheck2\PartialTestCheck2\obj\Debug\PartialTestCheck.dll
+D:\Users\User\Documents\αξιοπιστία λογισμικου\PartialTestCheck2\PartialTestCheck2\obj\Debug\PartialTestCheck.pdb
+D:\Users\User\Documents\αξιοπιστία λογισμικου\PartialTestCheck2\PartialTestCheck2\bin\Debug\FaultyLibrary.dll
+D:\Users\User\Documents\αξιοπιστία λογισμικου\PartialTestCheck2\PartialTestCheck2\bin\Debug\FaultyLibrary.pdb

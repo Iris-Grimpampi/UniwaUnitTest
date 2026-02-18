@@ -1,0 +1,6 @@
+D:\Users\User\Documents\αξιοπιστία λογισμικου\PartialHomework2\PartialHomework2\bin\Debug\PartialHomework.dll
+D:\Users\User\Documents\αξιοπιστία λογισμικου\PartialHomework2\PartialHomework2\bin\Debug\PartialHomework.pdb
+D:\Users\User\Documents\αξιοπιστία λογισμικου\PartialHomework2\PartialHomework2\obj\Debug\PartialHomework2.csproj.AssemblyReference.cache
+D:\Users\User\Documents\αξιοπιστία λογισμικου\PartialHomework2\PartialHomework2\obj\Debug\PartialHomework2.csproj.CoreCompileInputs.cache
+D:\Users\User\Documents\αξιοπιστία λογισμικου\PartialHomework2\PartialHomework2\obj\Debug\PartialHomework.dll
+D:\Users\User\Documents\αξιοπιστία λογισμικου\PartialHomework2\PartialHomework2\obj\Debug\PartialHomework.pdb

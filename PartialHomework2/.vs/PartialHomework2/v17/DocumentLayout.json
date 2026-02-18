@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\User\\Documents\\\u03B1\u03BE\u03B9\u03BF\u03C0\u03B9\u03C3\u03C4\u03AF\u03B1 \u03BB\u03BF\u03B3\u03B9\u03C3\u03BC\u03B9\u03BA\u03BF\u03C5\\PartialHomework2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{905C29F4-DAD1-4DBD-A8FD-3159E4A342BD}|FaultyLibrary\\FaultyLibrary.csproj|D:\\Users\\User\\Documents\\\u03B1\u03BE\u03B9\u03BF\u03C0\u03B9\u03C3\u03C4\u03AF\u03B1 \u03BB\u03BF\u03B3\u03B9\u03C3\u03BC\u03B9\u03BA\u03BF\u03C5\\PartialHomework2\\faultylibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905C29F4-DAD1-4DBD-A8FD-3159E4A342BD}|FaultyLibrary\\FaultyLibrary.csproj|solutionrelative:faultylibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E579FD1C-97B4-4E13-8F3C-D6C1F44779C4}|..\\PartialTestCheck2\\PartialTestCheck2\\PartialTestCheck2.csproj|d:\\users\\user\\documents\\\u03B1\u03BE\u03B9\u03BF\u03C0\u03B9\u03C3\u03C4\u03AF\u03B1 \u03BB\u03BF\u03B3\u03B9\u03C3\u03BC\u03B9\u03BA\u03BF\u03C5\\partialtestcheck2\\partialtestcheck2\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Users\\User\\Documents\\\u03B1\u03BE\u03B9\u03BF\u03C0\u03B9\u03C3\u03C4\u03AF\u03B1 \u03BB\u03BF\u03B3\u03B9\u03C3\u03BC\u03B9\u03BA\u03BF\u03C5\\PartialTestCheck2\\PartialTestCheck2\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\PartialTestCheck2\\PartialTestCheck2\\UnitTest1.cs",
+              "ToolTip": "D:\\Users\\User\\Documents\\\u03B1\u03BE\u03B9\u03BF\u03C0\u03B9\u03C3\u03C4\u03AF\u03B1 \u03BB\u03BF\u03B3\u03B9\u03C3\u03BC\u03B9\u03BA\u03BF\u03C5\\PartialTestCheck2\\PartialTestCheck2\\UnitTest1.cs",
+              "RelativeToolTip": "..\\PartialTestCheck2\\PartialTestCheck2\\UnitTest1.cs",
+              "ViewState": "AgIAAKcBAAAAAAAAAAAowLwBAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T14:11:06.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Users\\User\\Documents\\\u03B1\u03BE\u03B9\u03BF\u03C0\u03B9\u03C3\u03C4\u03AF\u03B1 \u03BB\u03BF\u03B3\u03B9\u03C3\u03BC\u03B9\u03BA\u03BF\u03C5\\PartialHomework2\\FaultyLibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "FaultyLibrary\\Class1.cs",
+              "ToolTip": "D:\\Users\\User\\Documents\\\u03B1\u03BE\u03B9\u03BF\u03C0\u03B9\u03C3\u03C4\u03AF\u03B1 \u03BB\u03BF\u03B3\u03B9\u03C3\u03BC\u03B9\u03BA\u03BF\u03C5\\PartialHomework2\\FaultyLibrary\\Class1.cs",
+              "RelativeToolTip": "FaultyLibrary\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T10:28:24.17Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,6 +1,0 @@
-D:\Users\User\Documents\αξιοπιστία λογισμικου\StandaloneFaultyLibrary\StandaloneFaultyLibrary\bin\Debug\PartialHomework.dll
-D:\Users\User\Documents\αξιοπιστία λογισμικου\StandaloneFaultyLibrary\StandaloneFaultyLibrary\bin\Debug\PartialHomework.pdb
-D:\Users\User\Documents\αξιοπιστία λογισμικου\StandaloneFaultyLibrary\StandaloneFaultyLibrary\obj\Debug\StandaloneFaultyLibrary.csproj.AssemblyReference.cache
-D:\Users\User\Documents\αξιοπιστία λογισμικου\StandaloneFaultyLibrary\StandaloneFaultyLibrary\obj\Debug\StandaloneFaultyLibrary.csproj.CoreCompileInputs.cache
-D:\Users\User\Documents\αξιοπιστία λογισμικου\StandaloneFaultyLibrary\StandaloneFaultyLibrary\obj\Debug\PartialHomework.dll
-D:\Users\User\Documents\αξιοπιστία λογισμικου\StandaloneFaultyLibrary\StandaloneFaultyLibrary\obj\Debug\PartialHomework.pdb
